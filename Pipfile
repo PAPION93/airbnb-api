@@ -14,7 +14,7 @@ django-seed = "*"
 djangorestframework = "*"
 
 [requires]
-python_version = "3.8.5"
+python_version = "3.8.3"
 
 [pipenv]
 allow_prereleases = true
