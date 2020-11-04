@@ -21,7 +21,7 @@ python manage.py runserver
 - [x] See Room
 - [x] Create Room
 - [x] Edit Room
-- [ ] Delete Room
+- [X] Delete Room
 - [ ] Filter Rooms
 - [ ] Search By Coords
 - [ ] Login
