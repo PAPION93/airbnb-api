@@ -21,12 +21,11 @@ python manage.py runserver
 - [x] See Room
 - [x] Create Room
 - [x] Edit Room
-- [X] Delete Room
+- [x] Delete Room
 - [ ] Filter Rooms
 - [ ] Search By Coords
 - [ ] Login
 - [ ] Create Account
 - [ ] Add Room to Favourites
-- [ ] See Favs
-- [ ] See Profile
-- [ ] Edit Profile
+- [x] See Profile
+- [x] Edit Profile
