@@ -23,8 +23,8 @@ python manage.py runserver
 - [x] Edit Room
 - [x] Delete Room
 - [x] Add Room to Favourites
-- [ ] Filter Rooms
-- [ ] Search By Coords
+- [x] Filter Rooms
+- [x] Search By Coords
 - [x] Login (JWT)
 - [x] JWT Authentication
 - [x] Create Account
