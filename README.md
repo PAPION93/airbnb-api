@@ -22,10 +22,11 @@ python manage.py runserver
 - [x] Create Room
 - [x] Edit Room
 - [x] Delete Room
+- [x] Add Room to Favourites
 - [ ] Filter Rooms
 - [ ] Search By Coords
-- [ ] Login
-- [ ] Create Account
-- [ ] Add Room to Favourites
+- [x] Login (JWT)
+- [ ] JWT Authentication
+- [x] Create Account
 - [x] See Profile
 - [x] Edit Profile
