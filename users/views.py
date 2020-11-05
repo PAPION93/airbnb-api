@@ -87,7 +87,7 @@ def login(request):
 
     if user is not None:
         encoded_jwt = jwt.encode(
-            {"id": user.pk}, settings.SECRET_KEY, algorithm="HS256"
+            {"pk": user.pk}, settings.SECRET_KEY, algorithm="HS256"
         )
         return Response(data={"token": encoded_jwt})
     else:

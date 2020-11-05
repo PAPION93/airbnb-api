@@ -26,7 +26,7 @@ python manage.py runserver
 - [ ] Filter Rooms
 - [ ] Search By Coords
 - [x] Login (JWT)
-- [ ] JWT Authentication
+- [x] JWT Authentication
 - [x] Create Account
 - [x] See Profile
 - [x] Edit Profile
